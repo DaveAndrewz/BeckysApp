@@ -14,6 +14,7 @@ body {
 h1 {
   text-align: center;
   font-size: 4rem;
+  filter: drop-shadow(0 0 10px rgb(230, 49, 247));
 }
 
 .container {
@@ -106,6 +107,7 @@ main {
   flex-direction: column;
   overflow: hidden;
   transition: box-shadow 0.2s ease-out;
+  border: 2px solid rgb(255, 255, 255);
 }
 
 .box.active {
@@ -119,7 +121,7 @@ main {
 }
 
 .box .info {
-  background-color: rgb(92, 48, 63);
+  background-color: rgb(99, 57, 71);
   color: #fff;
   font-size: 18px;
   letter-spacing: 1px;
