@@ -250,10 +250,10 @@ const data = [
         text: ``
     },
     {
-        text: ``
+        text: `Merry Christmas`
     },
     {
-        text: ``
+        text: `Happy Birthday`
     },
 ];
 
