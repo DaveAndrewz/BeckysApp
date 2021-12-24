@@ -40,6 +40,9 @@ const data = [
         text: `I Love You`
     },
     {
+        text: `I Miss You`
+    },
+    {
         text: `Good Morning`
     },
     {
@@ -182,6 +185,9 @@ const data = [
     },
     {
         text: `Coy`
+    },
+    {
+        text: `Weston`
     },
     {
         text: `John`
