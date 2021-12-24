@@ -169,7 +169,10 @@ const data = [
         text: ``
     },
     {
-        text: `Where Is`
+        text: `Where Is..`
+    },
+    {
+        text: `How Is..`
     },
     {
         text: `Aleigha`
@@ -217,6 +220,63 @@ const data = [
         text: ``
     },
     {
+        text: ``
+    },
+    {
+        text: `I Am`
+    },
+    {
+        text: `You Are`
+    },
+    {
+        text: `He Is`
+    },
+    {
+        text: `She Is`
+    },
+    {
+        text: `They Are`
+    },
+    {
+        text: `We Are`
+    },
+    {
+        text: `This Is`
+    },
+    {
+        text: `That Is`
+    },
+    {
+        text: ``
+    },
+    {
+        text: `Beautiful`
+    },
+    {
+        text: `Horrible`
+    },
+    {
+        text: `Funny`
+    },
+    {
+        text: `Happy`
+    },
+    {
+        text: `Sad`
+    },
+    {
+        text: `Awesome`
+    },
+    {
+        text: `Crazy`
+    },
+    {
+        text: `Delicious`
+    },
+    {
+        text: ``
+    },
+    {
         text: `I Need..`
     },
     {
@@ -241,7 +301,7 @@ const data = [
         text: `Medicine`
     },
     {
-        text: `To Go To`
+        text: `To Go To The`
     },
     {
         text: ``
@@ -253,7 +313,13 @@ const data = [
         text: `Doctors`
     },
     {
+        text: `Post Office`
+    },
+    {
         text: ``
+    },
+    {
+        text: `Happy Anniversary`
     },
     {
         text: `Merry Christmas`

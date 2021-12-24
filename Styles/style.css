@@ -109,7 +109,7 @@ main {
 }
 
 .box.active {
-  box-shadow: 0 0 10px 5px darksalmon;
+  box-shadow: 0 0 10px 5px rgb(234, 0, 255);
 }
 
 .box img {
@@ -119,7 +119,7 @@ main {
 }
 
 .box .info {
-  background-color: rgb(82, 33, 78);
+  background-color: rgb(92, 48, 63);
   color: #fff;
   font-size: 18px;
   letter-spacing: 1px;
