@@ -5,7 +5,7 @@
 }
 
 body {
-  background: var(--beckyApp-color1);
+  background: pink;
   font-family: 'Lato', sans-serif;
   min-height: 100vh;
   margin: 0;
@@ -23,7 +23,7 @@ h1 {
 
 .btn {
   cursor: pointer;
-  background-color: var(--beckyApp-color2);
+  background-color: yellow;
   border: 0;
   border-radius: 4px;
   color: rgb(34, 34, 34);
